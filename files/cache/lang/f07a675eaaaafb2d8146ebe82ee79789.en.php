@@ -1,0 +1,27 @@
+<?php
+$lang->contact='Contact Us';
+$lang->contact_management='Contact Us Management';
+$lang->about_contact='This module is for creating and managing Contact Us pages.';
+$lang->cmd_contact_list='Contact Us List';
+$lang->cmd_create_contact='Create a new Contact Us';
+$lang->cmd_contact_info='Contact Us Info';
+$lang->cmd_form_components='Form Extra Components';
+$lang->cmd_agreement='Agreement Term';
+$lang->form_comps='Form Extra Components';
+$lang->eid='Form Component ID';
+$lang->input_type='Input Type';
+$lang->enable_terms='Enable Term';
+$lang->about_enable_terms='If checked, an agreement term will be enabled.';
+$lang->admin_mail='Administrator\'s Mail';
+$lang->about_admin_mail='Multiple mails can be sent with commas(,).';
+$lang->components_count='Form Components';
+$lang->interval='Interval for spam filtering';
+$lang->about_interval='All mails within the assigned time will be blocked.';
+$lang->msg_alert_limited_by_config_mail='Sending an email within %s minute is not allowed.';
+$lang->msg_terms_of_license_agreement='You haven\'t read and agree to the terms of the license agreement.';
+$lang->msg_email_send_successfully='An email has been sent successfully.';
+$lang->msg_logged_can_send_mail='Only logged user can send an email';
+$lang->cmd_up='Up';
+$lang->cmd_down='Down';
+$lang->component_name='Form Component Name';
+$lang->msg_do_set_admin_mail='The recipient is not set. Please contact your administrator.';

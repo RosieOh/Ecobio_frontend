@@ -1,0 +1,3 @@
+<?php
+if(!defined('__XE__')) { exit(); }
+return 'a:3:{i:0;a:3:{s:8:\"filepath\";s:66:\"./files/attach/images/413/484/b785f7198eddf094a00f693ba0adabcb.jpg\";s:5:\"width\";i:1200;s:6:\"height\";i:670;}i:1;a:3:{s:8:\"filepath\";s:66:\"./files/attach/images/413/484/bb9f4eef03591031267a72fdc2cca886.jpg\";s:5:\"width\";i:1200;s:6:\"height\";i:670;}i:2;a:3:{s:8:\"filepath\";s:66:\"./files/attach/images/413/484/bfe1b9d38e97860d5d005dcc6dc5266f.jpg\";s:5:\"width\";i:1200;s:6:\"height\";i:670;}}';
